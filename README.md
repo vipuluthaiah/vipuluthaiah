@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipuluthaiah" alt="vipuluthaiah" /></a> </p>
 
 
-- 🔭 I’m currently working on **MediaTech Startup**
+- 🔭 I’m currently working on **MediaTech Startup**kodagunow.com
 
 - 🌱 I’m currently learning **MERN**
 
