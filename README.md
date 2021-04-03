@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipuluthaiah" alt="vipuluthaiah" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/uthaiahvipul" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/uthaiahvipul?logo=twitter&style=for-the-badge" alt="https://twitter.com/uthaiahvipul" /></a> </p>
 
-- 🔭 I’m currently working on **Dating App**
+- 🔭 I’m currently working on **MediaTech Startup**
 
 - 🌱 I’m currently learning **MERN**
 
