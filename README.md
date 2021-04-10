@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/uthaiahvipul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/uthaiahvipul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vipul-uthaiah-a65460171/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vipul-uthaiah-a65460171/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://rahuldkjain.github.io/gh-profile-readme-generator/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://rahuldkjain.github.io/gh-profile-readme-generator/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vipuluthaiah/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://rahuldkjain.github.io/gh-profile-readme-generator/" height="30" width="40" /></a>
 <a href="https://medium.com/@drealtic.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@drealtic.com" height="30" width="40" /></a>
 </p>
 
