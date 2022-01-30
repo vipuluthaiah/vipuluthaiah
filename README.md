@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipuluthaiah" alt="vipuluthaiah" /></a> </p>
 
 
-- 🔭 I’m currently working on **MediaTech Startup**  [https://kodagunow.com/]
-
-- 🌱 I’m currently learning **MERN**
+- 🔭 I’m currently running a **SaaS Startup**  [https://neuz.org/]
 
 - 👯 I’m looking to collaborate on **StartUp idea**
 
@@ -18,7 +16,7 @@
 
 - 💬 Ask me about **Flutter,MERN,CYBERSECURITY**
 
-- 📫 How to reach me **drealtic.com@gmail.com**
+- 📫 How to reach me **kechamadavipul@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
