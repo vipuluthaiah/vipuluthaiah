@@ -17,7 +17,7 @@
 - 🏗️ Our **core tech stack** includes **Medusa.js** and **Directus CMS**.  
 - 🤝 **Open to collaborations** on **Startup ideas & Tech innovations**.  
 - 👨‍💻 Check out my work on **[GitHub](https://github.com/vipuluthaiah)**.  
-- ✍️ I write articles on **[Medium](https://medium.com/@kechamadavipul)**.  
+- ✍️ I write articles on **[Medium](https://medium.com/@weframe.tech)**.  
 - 📅 **Book a meeting**: [Calendly](https://calendly.com/vipuluthaiah/weframe-tech)  
 - 📫 Reach me at **kechamadavipul@gmail.com**.  
 - 💬 Ask me about **Medusa.js, Directus CMS, Flutter, MERN, and Cybersecurity**.  
@@ -25,8 +25,8 @@
 ---
 
 ## 📢 Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+📖 [Best Headless E-Commerce Platform 2026](https://medium.com/@weframe.tech/best-headless-e-commerce-platform-2026-b6756801b66d)  
+📖 [Top 3 Best Headless CMS 2024](https://medium.com/@kechamadavipul/top-3-best-headless-cms-2024-5e2bc815493e)  
 
 ---
 
@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/vipuluthaiah/" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
-  <a href="https://medium.com/@drealtic.com" target="blank">
+  <a href="https://medium.com/@weframe.tech" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40"/>
   </a>
 </p>
@@ -54,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Medusa.js" width="40" height="40"/>
   </a>
   <a href="https://directus.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/directus/directus-icon.svg" alt="Directus CMS" width="40" height="40"/>
+    <img src="https://directus.io/_nuxt/logo-dark.Bhm22UGW.svg" alt="Directus CMS" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
